@@ -96,6 +96,7 @@ ylabel('Amplitude')
 title('Discrete cross correlated waveform')
 
 ## OUTPUT:
+![CORRECT](https://github.com/user-attachments/assets/31709379-c851-4487-bd48-29ef24dd63d8)
 
 ## RESULT:
 ![WhatsApp Image 2026-04-01 at 6 04 39 PM](https://github.com/user-attachments/assets/9b45ba27-40ae-49d1-a5f3-7c35bf5730eb)
