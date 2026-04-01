@@ -98,4 +98,5 @@ title('Discrete cross correlated waveform')
 ## OUTPUT:
 
 ## RESULT:
+![WhatsApp Image 2026-04-01 at 6 04 39 PM](https://github.com/user-attachments/assets/9b45ba27-40ae-49d1-a5f3-7c35bf5730eb)
 
